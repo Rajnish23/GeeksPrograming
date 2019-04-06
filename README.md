@@ -1,5 +1,7 @@
 <h1> GeeksForGeeks Fork Java</h1>
 
+Contest Rank was 72 and Score was 1141.
+
 There were four modules :
 <ul>
 <li>Module-1 : Basic control and Structure</li>
